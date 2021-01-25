@@ -1,5 +1,5 @@
 # THOP: PyTorch-OpCounter
-
+# 统计模型的参数量和计算量
 ## How to install 
     
 `pip install thop` (now continously intergrated on [Github actions](https://github.com/features/actions))
